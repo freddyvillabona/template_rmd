@@ -1,22 +1,5 @@
-# Notes from a university student
+# Template Rmd
 
-![Alt text](https://github.com/freddyvillabona/notes_ggplot2/blob/master/img.svg)
+![Alt text](https://raw.githubusercontent.com/freddyvillabona/template_rmd/main/rmarkdown.png)
 
-Data: Anonymous 
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
-# template_rmd
+
